@@ -8,7 +8,7 @@ This project is meant for absolute beginners. I've intentionally kept it the mos
 
 The project covers these concepts:
 
- * PHP variables
+ * PHp variables
  * PHP arrays
  * PHP functions
  * Pretty links (/about) with fallback to query string (?page=about)
